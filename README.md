@@ -1,12 +1,5 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//PT-br">
-<html>
-  <head><META http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <style></style>
-
-  </head>
-<body>
-    <h1 align="center">Hi 👋, I&#39;m Ana Clara Castro</h1>
-    <h3 align="center">Web Design e Frontend Developer</h3>
+<h1 align="center">Hi 👋, I&#39;m Ana Clara Castro</h1>
+<h3 align="center">Web Design e Frontend Developer</h3>
   
   <p align="left"> <img src="https://ci3.googleusercontent.com/meips/ADKq_NZ7Noe5t9m8h2LmyPtjVVaLZJStVPq0FecadyGa6b-sVH6Y1i7Gq1W16ryClTwkQp1oPD3QeuVta7JE2kSgGiwcMNjAnfxgxcmJkGngxCdR9uE1A_cLWI1lmcSujfFVy9yNe7vne8wb3SxarJC9meZw=s0-d-e1-ft#https://komarev.com/ghpvc/?username=jaumdarkz&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="jaumdarkz"> </p>
   
@@ -18,7 +11,7 @@
   
   - 💬 Ask me about ** Business, SaaS, TS, JS, NodeJS, NextJS, NestJS, Webscrapping, Python, Automation, Blockchain **
   
-  - 📫 Como me achar **<a href="mailto:aclaracastro5@gmail.com" target="_blank" rel="noreferrer">aclaracastro5@gmail.com</a>**
+  - 📫 Como me achar **<a href="https://criarmeulink.com.br/u/1714771637" target="_blank" rel="noreferrer">aclaracastro5@gmail.com</a>**
   
   - 📄 Know about my experiences [<a href="https://www.google.com/url?q=https://docs.google.com/document/d/1FFqzJ5dYmWAZpDa4xt1R5Qs5ubSD3kaRk8eQ9Rubn1c/edit?usp%3Dsharing%5D(https://docs.google.com/document/d/1FFqzJ5dYmWAZpDa4xt1R5Qs5ubSD3kaRk8eQ9Rubn1c/edit?usp%3Dsharing)&amp;source=gmail-html&amp;ust=1714857301826000&amp;usg=AOvVaw2aHN1AsrlQdN9r5GvE0BK4" target="_blank" rel="noreferrer">https://docs.google.com/<wbr>document/d/<wbr>1FFqzJ5dYmWAZpDa4xt1R5Qs5ubSD3<wbr>kaRk8eQ9Rubn1c/edit?usp=<wbr>sharing](https://docs.google.<wbr>com/document/d/<wbr>1FFqzJ5dYmWAZpDa4xt1R5Qs5ubSD3<wbr>kaRk8eQ9Rubn1c/edit?usp=<wbr>sharing)</a>
   
