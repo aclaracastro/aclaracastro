@@ -12,7 +12,7 @@
 
 - 📄 Veja meus projetos funcionando **https://aclaracastro.carrd.co/**
 
-- ⚡ Fun fact **Sou uma pessoa proativa e comunicativa**
+- ⚡ Fun fact **Gosto muito de esportes**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
