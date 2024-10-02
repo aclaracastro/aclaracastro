@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Ana Clara Castro</h1>
-<h3 align="center">Frontend Developer e Web designer.</h3>
+<h1 align="center">Oie 👋, me chamo Ana Clara Castro</h1>
+<h3 align="center">Estudante de desenvolvimento Front-end</h3>
 
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaumdarkz" alt="jaumdarkz" /></a> </p> !-->
 
 <!-- 🔭 I’m currently working & Leading on [Moonrise & Data Foundry]-->
 
-- 💬 Me pergunte sobre **HTML, CSS, JavaScript, Bootstrap, Banco de Dados**
+- 💬 Me pergunte sobre **HTML, CSS, JavaScript, Bootstrap, Banco de Dados, nodejs**
 
 - 📫 Como me achar: **aclaracastro5@gmail.com**
 
