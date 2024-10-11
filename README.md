@@ -12,7 +12,7 @@
 
 - 📄 Veja meus projetos funcionando **https://aclaracastro.carrd.co/**
 
-- ⚡ Fun fact **Gosto muito de esportes**
+- ⚡ Fun fact: **Gosto muito de esportes e praia**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
