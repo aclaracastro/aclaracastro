@@ -6,11 +6,11 @@
 
 <!-- 🔭 I’m currently working & Leading on [Moonrise & Data Foundry]-->
 
-- 💬 Me pergunte sobre **HTML, CSS, JavaScript, Bootstrap, Banco de Dados, nodejs**
+- 💬 Me pergunte sobre **HTML, CSS, JavaScript, Bootstrap, Banco de Dados, nodejs, **
 
 - 📫 Como me achar: **aclaracastro5@gmail.com**
 
-- 📄 Veja meus projetos funcionando **https://aclaracastro.carrd.co/**
+- 📄 Veja meu portifólio **https://aclaracastro.carrd.co/**
 
 - ⚡ Fun fact: **Gosto muito de esportes e praia**
 
