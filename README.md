@@ -1,4 +1,4 @@
-<h1 align="center">Oie 👋, me chamo Ana Clara Castro</h1>
+<h1 align="center">👋 Ana Clara Castro</h1>
 <h3 align="center">Estudante de desenvolvimento Front-end</h3>
 
 
