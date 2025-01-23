@@ -18,3 +18,9 @@
     <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 </div>
 
+# Contato
+
+<div style="display: inline_block"> <br/>
+    <a href="mailto:aclaracastro5@gmail.com">Enviar e-mail</a>
+
+</div>
