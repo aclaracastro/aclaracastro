@@ -1,6 +1,6 @@
 <h1>👋 Ana Clara Castro</h1>
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedora Frontend`**
 
 ### 🤖 Linguagens e Tecnologias
 <img 
@@ -66,7 +66,7 @@
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+/> <-- -->
 <br/>
 <br/>
 
