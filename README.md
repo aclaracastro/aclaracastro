@@ -3,8 +3,6 @@
 
 **`Desenvolvedora Frontend`**
 
-</br>
-
 ### 🤖 Linguagens e Tecnologias
 <img 
     align="left" 
