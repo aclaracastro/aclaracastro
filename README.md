@@ -1,3 +1,3 @@
-<h1 align="center">👋 Ana Clara Castro</h1>
+<h1>👋 Ana Clara Castro</h1>
 
 
